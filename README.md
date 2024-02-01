@@ -7,7 +7,6 @@
 1. Make sure you have Node.js installed: [https://nodejs.org/](https://nodejs.org/)
 2. Clone or download this repository.
 3. Navigate to the project directory in your terminal.
-4. Run `npm install` to install required dependencies.
 
 ## Running the Server
 
@@ -35,5 +34,3 @@ fetch('http://localhost:3000/getTimeStories')
 ## Additional Notes
 
 - The code uses regular expressions to parse the HTML structure of Time.com, which might be subject to changes on the website.
-- Consider error handling and rate limiting for robust API usage.
-- For production environments, explore more robust web scraping techniques and libraries.
