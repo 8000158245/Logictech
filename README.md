@@ -1,0 +1,2 @@
+# Logictech
+Assignment for DeepLogicTech
