@@ -1,4 +1,4 @@
- **# Time Stories API**
+ # Time Stories API
 
 **This Node.js server fetches and extracts the latest stories from Time.com and provides them as a JSON API endpoint.**
 
